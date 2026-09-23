@@ -1,0 +1,12 @@
+# Compiled Object files and Executables
+*.o
+bfat
+make_bfat
+
+# File System Disks / Mount Points
+disk*
+/tmp/fusemountpoint/
+
+# Editor settings
+.vscode/
+.DS_Store
